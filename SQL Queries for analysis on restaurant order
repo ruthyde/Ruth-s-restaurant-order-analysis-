@@ -1,0 +1,4 @@
+# Exploring the Items Table
+
+SELECT *
+FROM `coursera-learing-437416.Project_One.menu_items` 
