@@ -1,2 +1,4 @@
 # Ruth-s-restaurant-order-analysis-
-This is a project analyzing menu items orders for a restaurant
+This is a project analyzing the orders for a restaurant serving international cuisine.
+
+
