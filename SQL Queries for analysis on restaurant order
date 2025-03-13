@@ -1,4 +1,2 @@
-# Exploring the Items Table
-
-SELECT *
-FROM `coursera-learing-437416.Project_One.menu_items` 
+Link to SQL queries for this project is below
+https://console.cloud.google.com/bigquery?sq=700663257091:d5efe9331978477eb3fa378d5f4551f3
